@@ -383,10 +383,8 @@
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
-  <project path="packages/apps/XPeriencePerformance" name="Team-PAradox/XPerience_Kernel_Tweaker" remote="github" revision="master"  />
-  <project path="packages/apps/XPerienceSetupWizard" name="XPerience-NXT/XPerience_Setup_Wizard" remote="github" revision="cm-11.0" />
   <project path="packages/apps/Settings" name="Team-PAradox/android_packages_apps_Settings" remote="github" revision="kitkat"  />
-  <project path="packages/apps/XPerienceLauncher" name="Team-PAradox/android_packages_apps_XPerienceLauncher" remote="github" revision="cm-11.0" />
+  <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" />
   <project path="packages/apps/ParanoidOTA" name="AOSPA-legacy/android_packages_apps_ParanoidOTA" remote="github-legacy" revision="kitkat" />
   <project path="packages/apps/PhoneCommon" name="CyanogenMod/android_packages_apps_PhoneCommon" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
