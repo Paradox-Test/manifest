@@ -14,7 +14,6 @@
   <remote  name="blobs"
            fetch="https://github.com/ThankYouMario" />
 
-
   <remote  name="legacy-blobs"
            fetch="https://github.com/ThankYouLuigi" />
 
@@ -33,6 +32,10 @@
 
   <remote  name="klozz"
            fetch="https://github.com/" />
+           
+  <remote  name="PAradox"
+           fetch="https://github.com/Team-PAradox" />
+           
 
   <default revision="refs/tags/android-4.4.4_r2"
            remote="aosp"
@@ -376,7 +379,6 @@
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/InCallUI" name="AOSPA-legacy/android_packages_apps_InCallUI" remote="github-legacy" revision="kitkat" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
-  <project path="packages/apps/Launcher3" name="CyanogenMod/android_packages_apps_Launcher3" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Lightbulb" name="AOSPA/android_packages_apps_Lightbulb" remote="github" revision="kitkat" />
   <project path="packages/apps/Mms" name="AOSPA-legacy/android_packages_apps_Mms" remote="github-legacy" revision="kitkat" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
@@ -384,7 +386,7 @@
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
   <project path="packages/apps/Settings" name="Team-PAradox/android_packages_apps_Settings" remote="github" revision="kitkat"  />
-  <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" />
+  <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" remote="PAradox" revision="PAradox" /> 
   <project path="packages/apps/ParanoidOTA" name="AOSPA-legacy/android_packages_apps_ParanoidOTA" remote="github-legacy" revision="kitkat" />
   <project path="packages/apps/PhoneCommon" name="CyanogenMod/android_packages_apps_PhoneCommon" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
