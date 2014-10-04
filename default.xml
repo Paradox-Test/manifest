@@ -506,7 +506,6 @@
   <!--some new adds-->
   <project path="external/focal" name="xplodwild/android_external_Focal" remote="github" revision="master" />
   <project path="packages/apps/focal" name="xplodwild/android_packages_apps_Focal" remote="github" revision="master" />
-  <project path="device/motorola/falcon" name="Team-PAradox/android_device_motorola_falcon" remote="github" revision="cm-11.0" />
   <!--end new adds-->
 
 </manifest> 
