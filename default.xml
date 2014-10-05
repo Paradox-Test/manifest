@@ -345,12 +345,12 @@
   <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/keymaster" name="CyanogenMod/android_hardware_qcom_keymaster" remote="cm" revision="cm-11.0" />
-  <project path="hardware/qcom/media" name="Team-PAradox/android_hardware_qcom_media" remote="cm" revision="cm-11.0" />
-  <project path="hardware/qcom/media-caf" name="Team-PAradox/android_hardware_qcom_media-caf" remote="cm" revision="cm-11.0" />
+  <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" remote="cm" revision="cm-11.0" />
+  <project path="hardware/qcom/media-caf" name="CyanogenMod/android_hardware_qcom_media-caf" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/media-caf-new" name="CyanogenMod/android_hardware_qcom_media-caf-new" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/msm8960" name="CyanogenMod/android_hardware_qcom_msm8960" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/msm8x74" name="CyanogenMod/android_hardware_qcom_msm8x74" remote="cm" revision="cm-11.0" />
-  <project path="hardware/qcom/power" name="TEAM-Gummy/hardware_qcom_power" remote="github" revision="kk4.4" />
+  <project path="hardware/qcom/power" name="CyanogenMod/android_hardware_qcom_power" remote="github" revision="cm-11.0" />
   <project path="hardware/qcom/sensors" name="CyanogenMod/android_hardware_qcom_sensors" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/wlan" name="CyanogenMod/android_hardware_qcom_wlan" remote="cm" revision="cm-11.0" />
   <project path="libcore" name="CyanogenMod/android_libcore" remote="cm" revision="cm-11.0" />
