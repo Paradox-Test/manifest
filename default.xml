@@ -337,9 +337,9 @@
   <project path="hardware/qcom/audio-caf" name="CyanogenMod/android_hardware_qcom_audio-caf" remote="github" revision="cm-11.0" />
   <project path="hardware/qcom/bt" name="CyanogenMod/android_hardware_qcom_bt" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/camera" name="CyanogenMod/android_hardware_qcom_camera" remote="cm" revision="cm-11.0" />
-  <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" remote="cm" revision="cm-11.0" />
-  <project path="hardware/qcom/display-caf" name="CyanogenMod/android_hardware_qcom_display-caf" remote="cm" revision="cm-11.0" />
-  <project path="hardware/qcom/display-caf-new" name="CyanogenMod/android_hardware_qcom_display-caf-new" remote="github" revision="cm-11.0" />
+  <project path="hardware/qcom/display" name="Team-PAradox/android_hardware_qcom_display" remote="cm" revision="cm-11.0" />
+  <project path="hardware/qcom/display-caf" name="Team-PAradox/android_hardware_qcom_display-caf" remote="cm" revision="cm-11.0" />
+  <project path="hardware/qcom/display-caf-new" name="Team-PAradox/android_hardware_qcom_display-caf-new" remote="github" revision="cm-11.0" />
   <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/keymaster" name="CyanogenMod/android_hardware_qcom_keymaster" remote="cm" revision="cm-11.0" />
