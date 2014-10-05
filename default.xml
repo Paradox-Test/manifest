@@ -334,14 +334,14 @@
   <project path="hardware/libhardware_legacy" name="XPerience-AOSP/android_hardware_libhardware_legacy" remote="github" revision="kitkat" groups="pdk" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="hardware/qcom/audio" name="CyanogenMod/android_hardware_qcom_audio" remote="cm" revision="cm-11.0" />
-  <project path="hardware/qcom/audio-caf" name="Team-PAradox/android_hardware_qcom_audio-caf" remote="github" revision="kk4.4" />
+  <project path="hardware/qcom/audio-caf" name="CyanogenMod/android_hardware_qcom_audio-caf" remote="github" revision="cm-11.0" />
   <project path="hardware/qcom/bt" name="CyanogenMod/android_hardware_qcom_bt" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/camera" name="CyanogenMod/android_hardware_qcom_camera" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/display-caf" name="CyanogenMod/android_hardware_qcom_display-caf" remote="cm" revision="cm-11.0" />
-  <project path="hardware/qcom/display-caf-new" name="TEAM-Gummy/android_hardware_qcom_display-caf-new" remote="github" revision="kk4.4" />
-  <project path="hardware/qcom/display-msm8226" name="TEAM-Gummy/android_hardware_qcom_display-msm8226" remote="github" revision="kk4.4" />
-  <project path="hardware/qcom/display-mdss" name="TEAM-Gummy/hardware_qcom_display-mdss" remote="github" revision="kk4.4" />
+  <project path="hardware/qcom/display-caf-new" name="CyanogenMod/android_hardware_qcom_display-caf-new" remote="github" revision="cm-11.0" />
+  <project path="hardware/qcom/display-msm8226" name="CyanogenMod/android_hardware_qcom_display-msm8226" remote="github" revision="cm-11.0" />
+  <project path="hardware/qcom/display-mdss" name="CyanogenMod/hardware_qcom_display-mdss" remote="github" revision="cm-11.0" />
   <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/keymaster" name="CyanogenMod/android_hardware_qcom_keymaster" remote="cm" revision="cm-11.0" />
